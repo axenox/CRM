@@ -1,0 +1,15 @@
+{
+    "name": "exface/CRM",
+    "require": {
+        "exface/core": "~0.1"
+    },
+    "extra": {
+        "app_uid": "0x32300000000000000000000000000000",
+        "app": {
+            "app_uid": "0x32300000000000000000000000000000",
+            "app_alias": "axenox.CRM",
+            "model_md5": "aa2d0326f162dae4ebc767f1782551f1",
+            "model_timestamp": "2016-12-20 09:31:42"
+        }
+    }
+}
