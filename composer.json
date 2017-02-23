@@ -1,5 +1,5 @@
 {
-    "name": "axenox/crm",
+    "name": "axenox/CRM",
     "require": {
         "exface/core": "~0.1"
     },
