@@ -11,5 +11,13 @@
             "model_md5": "65a81bd9c060b54f061d70b2d3bad066",
             "model_timestamp": "2016-12-20 09:31:42"
         }
+    },
+    "autoload": {
+        "psr-4": { "axenox\\CRM\\": "" },
+        "exclude-from-classmap": [
+            "/Config/",
+            "/Translations/",
+            "/Model/"
+        ]
     }
 }
