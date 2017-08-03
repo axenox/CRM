@@ -255,9 +255,9 @@
         },
         {
             "CREATED_ON": "2007-01-01 00:00:00",
-            "MODIFIED_ON": "2007-01-01 00:00:00",
+            "MODIFIED_ON": "2017-08-02 08:16:45",
             "CREATED_BY_USER": "",
-            "MODIFIED_BY_USER": "",
+            "MODIFIED_BY_USER": "0x11e6523da538f59192b80050568905af",
             "UID": "0x35323900000000000000000000000000",
             "SORTABLEFLAG": "1",
             "FILTERABLEFLAG": "1",
@@ -265,9 +265,9 @@
             "DEFAULT_AGGREGATE_FUNCTION": "",
             "VALUE_LIST_DELIMITER": ",",
             "LABEL": "Kunde (K\u00fcrzel)",
-            "ALIAS": "KUERZEL",
+            "ALIAS": "SHORT_NAME",
             "DATATYPE": "0x30000000000000000000000000000000",
-            "DATA_ADDRESS": "kuerzel",
+            "DATA_ADDRESS": "short_name",
             "OBJECT": "0x31333300000000000000000000000000",
             "FORMATTER": "",
             "DISPLAYORDER": "1",
@@ -284,7 +284,7 @@
             "DATA_ADDRESS_PROPS": "{}",
             "DEFAULT_VALUE": "",
             "FIXED_VALUE": "",
-            "DEFAULT_EDITOR_UXON": ""
+            "DEFAULT_EDITOR_UXON": "{}"
         }
     ],
     "totals_rows": [],
