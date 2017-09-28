@@ -110,7 +110,7 @@
     "rows": [
         {
             "CREATED_ON": "2007-01-01 00:00:00",
-            "MODIFIED_ON": "2017-08-03 09:43:26",
+            "MODIFIED_ON": "2017-09-28 13:45:24",
             "CREATED_BY_USER": "",
             "MODIFIED_BY_USER": "0x31000000000000000000000000000000",
             "UID": "0x31333300000000000000000000000000",
@@ -123,7 +123,7 @@
             "DEFAULT_EDITOR_UXON": "{}",
             "LABEL": "Kunde",
             "ALIAS": "CUSTOMER",
-            "DATA_ADDRESS": "kunde"
+            "DATA_ADDRESS": "customer"
         }
     ],
     "totals_rows": [],
