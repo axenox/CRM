@@ -54,6 +54,10 @@
             "attribute_alias": "SYSTEMFLAG"
         },
         {
+            "name": "DEFAULT_EDITOR_UXON",
+            "attribute_alias": "DEFAULT_EDITOR_UXON"
+        },
+        {
             "name": "LABEL",
             "attribute_alias": "LABEL"
         },
@@ -134,8 +138,8 @@
             "attribute_alias": "FIXED_VALUE"
         },
         {
-            "name": "DEFAULT_EDITOR_UXON",
-            "attribute_alias": "DEFAULT_EDITOR_UXON"
+            "name": "CUSTOM_DATA_TYPE",
+            "attribute_alias": "CUSTOM_DATA_TYPE"
         }
     ],
     "rows": [
@@ -153,6 +157,7 @@
             "READABLEFLAG": "1",
             "WRITABLEFLAG": "1",
             "SYSTEMFLAG": "0",
+            "DEFAULT_EDITOR_UXON": null,
             "LABEL": "Name",
             "ALIAS": "NAME",
             "DATATYPE": "0x30000000000000000000000000000000",
@@ -170,10 +175,10 @@
             "SORTERDIR": "",
             "RELATED_OBJ_ATTR": "",
             "SHORT_DESCRIPTION": "",
-            "DATA_ADDRESS_PROPS": "{}",
+            "DATA_ADDRESS_PROPS": "",
             "DEFAULT_VALUE": "",
             "FIXED_VALUE": "",
-            "DEFAULT_EDITOR_UXON": ""
+            "CUSTOM_DATA_TYPE": null
         },
         {
             "CREATED_ON": "2007-01-01 00:00:00",
@@ -189,6 +194,7 @@
             "READABLEFLAG": "1",
             "WRITABLEFLAG": "1",
             "SYSTEMFLAG": "0",
+            "DEFAULT_EDITOR_UXON": null,
             "LABEL": "Kunde (K\u00fcrzel)",
             "ALIAS": "SHORT_NAME",
             "DATATYPE": "0x30000000000000000000000000000000",
@@ -206,10 +212,10 @@
             "SORTERDIR": "",
             "RELATED_OBJ_ATTR": "",
             "SHORT_DESCRIPTION": "",
-            "DATA_ADDRESS_PROPS": "{}",
+            "DATA_ADDRESS_PROPS": "",
             "DEFAULT_VALUE": "",
             "FIXED_VALUE": "",
-            "DEFAULT_EDITOR_UXON": "{}"
+            "CUSTOM_DATA_TYPE": null
         }
     ],
     "totals_rows": [],
