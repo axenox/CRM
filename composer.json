@@ -1,7 +1,7 @@
 {
     "name": "axenox/CRM",
     "require": {
-        "exface/core": "^0.1"
+        "exface/core": "~0.1"
     },
     "extra": {
         "app_uid": "0x32300000000000000000000000000000",
