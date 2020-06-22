@@ -1,25 +1,25 @@
 {
-    "name": "axenox/CRM",
-    "require": {
-        "exface/core": "~0.1"
-    },
-    "extra": {
-        "app_uid": "0x32300000000000000000000000000000",
-        "app": {
-            "app_uid": "0x32300000000000000000000000000000",
-            "app_alias": "axenox.CRM",
-            "model_md5": "fb370ed34ffb9c26804fb1385fa78987",
-            "model_timestamp": "2017-09-28 13:45:24"
-        }
-    },
-    "autoload": {
-        "psr-4": {
-            "axenox\\CRM\\": ""
-        },
-        "exclude-from-classmap": [
-            "/Config/",
-            "/Translations/",
-            "/Model/"
-        ]
-    }
+	"name" : "axenox/CRM",
+	"require" : {
+		"exface/core" : "~0.1||^1.0"
+	},
+	"extra" : {
+		"app_uid" : "0x32300000000000000000000000000000",
+		"app" : {
+			"app_uid" : "0x32300000000000000000000000000000",
+			"app_alias" : "axenox.CRM",
+			"model_md5" : "fb370ed34ffb9c26804fb1385fa78987",
+			"model_timestamp" : "2017-09-28 13:45:24"
+		}
+	},
+	"autoload" : {
+		"psr-4" : {
+			"axenox\\CRM\\" : ""
+		},
+		"exclude-from-classmap" : [
+			"/Config/",
+			"/Translations/",
+			"/Model/"
+		]
+	}
 }
